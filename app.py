@@ -195,19 +195,18 @@ with col1:
     </div>
     """, unsafe_allow_html=True)
 
-with col2:
     st.markdown('<a id="publications"></a>', unsafe_allow_html=True)
-    st.header("📚 Publications")
+    st.header("� Publications")
     st.markdown("""
     <div class="stCard">
         <ul style="list-style-type: none; padding-left: 0;">
-            <li style="margin-bottom: 10px;color: #ffffff;">📄 <strong>Deep Learning in Ophthalmology: A Novel Approach for Retinal Condition Prediction</strong> (2025)</li>
-            <li style="margin-bottom: 10px;color: #ffffff;">📄 <strong>A Predictive Analysis of Increasing IDSystem Accuracy Using ML Algorithms</strong> (2025)</li>
-            <li style="margin-bottom: 10px;color: #ffffff;">📄 <strong>Advancing IDS: A Comparative Analysis of Algorithms on the Kyoto 2015 Benchmark Dataset</strong> (2025)</li>
+            <li style="margin-bottom: 10px;">📄 <a href="https://ieeexplore.ieee.org/document/11188200" target="_blank" style="color: #ffffff; text-decoration: none;"><strong>Deep Learning in Ophthalmology: A Novel Approach for Retinal Condition Prediction</strong></a> (2025)</li>
+            <li style="margin-bottom: 10px;">📄 <a href="https://ieeexplore.ieee.org/document/11188339" target="_blank" style="color: #ffffff; text-decoration: none;"><strong>A Predictive Analysis of Increasing IDSystem Accuracy Using ML Algorithms</strong></a> (2025)</li>
+            <li style="margin-bottom: 10px;">📄 <a href="https://ieeexplore.ieee.org/document/11188325" target="_blank" style="color: #ffffff; text-decoration: none;"><strong>Advancing IDS: A Comparative Analysis of Algorithms on the Kyoto 2015 Benchmark Dataset</strong></a> (2025)</li>
         </ul>
     </div>
     """, unsafe_allow_html=True)
-
+    
 st.markdown("---")
 
 # Contact Section
