@@ -25,6 +25,7 @@ st.markdown("""
     <a href="#home">Home</a>
     <a href="#experience">Experience</a>
     <a href="#projects">Projects</a>
+    <a href="#deployed-work">Deployed Work</a>
     <a href="#skills">Skills</a>
     <a href="#certifications">Certifications</a>
     <a href="#contact">Contact</a>
@@ -151,6 +152,62 @@ with col2:
         <h3>👤 FRAS: Identity Verification System</h3>
         <p style="color: #ffffff;">Face recognition system that reduced manual attendance efforts by 80% with 95% accuracy.</p>
         <p style="color: #ffffff;"><strong>Tech Stack:</strong> Face Recognition, LBP, PCA, Excel Integration</p>
+    </div>
+    """, unsafe_allow_html=True)
+
+st.markdown("---")
+
+# Deployed Work Section
+st.markdown('<a id="deployed-work"></a>', unsafe_allow_html=True)
+st.header("🌐 Deployed Work")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("""
+    <div class="stCard">
+        <h3>💎 QJ Jewels</h3>
+        <p style="color: #ffffff;">Jewelry showcase platform.</p>
+        <a href="https://qj-jewels.lovable.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
+    </div>
+    <br>
+    <div class="stCard">
+        <h3>🤖 AI Chatbot</h3>
+        <p style="color: #ffffff;">Interactive AI conversational assistant.</p>
+        <a href="https://chatbotyash.streamlit.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
+    </div>
+    <br>
+    <div class="stCard">
+        <h3>💰 Jhota Budget Tracker</h3>
+        <p style="color: #ffffff;">Personal finance and budget tracking tool.</p>
+        <a href="https://jhotabudgettracker.streamlit.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
+    </div>
+    <br>
+    <div class="stCard">
+        <h3>❤️ Love Invoice</h3>
+        <p style="color: #ffffff;">Fun invoice generator for couples.</p>
+        <a href="https://jhota-love-invoice.lovable.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
+    </div>
+    """, unsafe_allow_html=True)
+
+with col2:
+    st.markdown("""
+    <div class="stCard">
+        <h3>📊 Text Sentiment Analyzer</h3>
+        <p style="color: #ffffff;">Analyze text sentiment using NLP.</p>
+        <a href="https://text-sentimentanalyzer.streamlit.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
+    </div>
+    <br>
+    <div class="stCard">
+        <h3>🏢 Rishabh Enterprises</h3>
+        <p style="color: #ffffff;">Business portfolio website.</p>
+        <a href="https://rishabhenterprises.netlify.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
+    </div>
+    <br>
+    <div class="stCard">
+        <h3>🌐 SAJSV</h3>
+        <p style="color: #ffffff;">Web application for SAJSV.</p>
+        <a href="https://sajsv.lovable.app" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
     </div>
     """, unsafe_allow_html=True)
 
