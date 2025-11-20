@@ -167,13 +167,13 @@ with col1:
     st.markdown("""
     <div class="stCard">
         <h3>💎 QJ Jewels</h3>
-        <p style="color: #ffffff;">Jewelry showcase platform.</p>
+        <p style="color: #ffffff;">Jewelry showcase platform developed for a client solving their business problems.</p>
         <a href="https://qj-jewels.lovable.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
     </div>
     <br>
     <div class="stCard">
         <h3>🤖 AI Chatbot</h3>
-        <p style="color: #ffffff;">Interactive AI conversational assistant.</p>
+        <p style="color: #ffffff;">Interactive AI conversational assistant developed using groq api and streamlit.</p>
         <a href="https://chatbotyash.streamlit.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
     </div>
     <br>
@@ -185,7 +185,7 @@ with col1:
     <br>
     <div class="stCard">
         <h3>❤️ Love Invoice</h3>
-        <p style="color: #ffffff;">Fun invoice generator for couples.</p>
+        <p style="color: #ffffff;">Fun invoice generator for a client solving their business problems.</p>
         <a href="https://jhota-love-invoice.lovable.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
     </div>
     """, unsafe_allow_html=True)
