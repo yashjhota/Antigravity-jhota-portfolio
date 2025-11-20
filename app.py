@@ -200,13 +200,13 @@ with col2:
     <br>
     <div class="stCard">
         <h3>🏢 Rishabh Enterprises</h3>
-        <p style="color: #ffffff;">Business portfolio website.</p>
+        <p style="color: #ffffff;">Business portfolio website developed for a client solving their business problems and showcasing their products.</p>
         <a href="https://rishabhenterprises.netlify.app/" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
     </div>
     <br>
     <div class="stCard">
         <h3>🌐 SAJSV</h3>
-        <p style="color: #ffffff;">Web application for SAJSV.</p>
+        <p style="color: #ffffff;">Web application for Sri Adinath Jain Sanskar Vatika Madurai.</p>
         <a href="https://sajsv.lovable.app" target="_blank" style="color: #FFD700; text-decoration: none;"><strong>Visit Site ↗</strong></a>
     </div>
     """, unsafe_allow_html=True)
