@@ -101,9 +101,9 @@ st.markdown("""
     <h3>Data Analyst Intern</h3>
     <p style="color: #FFD700;">UptoSkills | Remote | Jan 2025 - April 2025</p>
     <ul>
-        <li>Analyzing large datasets using SQL, Pandas, and Power BI, uncovering insights that improved business decisions.</li>
-        <li>Built interactive dashboards that enhanced reporting efficiency by 25%.</li>
-        <li>Conducted predictive analysis to forecast trends, leveraging machine learning models.</li>
+        <li style="color: #ffffff;">Analyzing large datasets using SQL, Pandas, and Power BI, uncovering insights that improved business decisions.</li>
+        <li style="color: #ffffff;">Built interactive dashboards that enhanced reporting efficiency by 25%.</li>
+        <li style="color: #ffffff;">Conducted predictive analysis to forecast trends, leveraging machine learning models.</li>
     </ul>
 </div>
 
@@ -111,10 +111,10 @@ st.markdown("""
     <h3>SQL Intern</h3>
     <p style="color: #FFD700;">HubbleMind Pvt Ltd | Remote | Oct 2024 - Nov 2024</p>
     <ul>
-        <li>Developed optimized SQL queries, reducing execution time by 20%, improving database efficiency.</li>
-        <li>Designed and integrated data pipelines for interactive Power BI dashboards, aiding decision-making.</li>
-        <li>Automated ETL workflows, increasing data processing efficiency by 15%.</li>
-        <li>Applied data warehousing techniques, ensuring smooth and scalable data retrieval.</li>
+        <li style="color: #ffffff;">Developed optimized SQL queries, reducing execution time by 20%, improving database efficiency.</li>
+        <li style="color: #ffffff;">Designed and integrated data pipelines for interactive Power BI dashboards, aiding decision-making.</li>
+        <li style="color: #ffffff;">Automated ETL workflows, increasing data processing efficiency by 15%.</li>
+        <li style="color: #ffffff;">Applied data warehousing techniques, ensuring smooth and scalable data retrieval.</li>
     </ul>
 </div>
 """, unsafe_allow_html=True)
@@ -131,8 +131,8 @@ with col1:
     st.markdown("""
     <div class="stCard">
         <h3>💬 Poof40 - Real-Time Vanishing Chat App</h3>
-        <p>Designed a self-expiring chat system using AI-assisted development and prompt engineering.</p>
-        <p><strong>Tech Stack:</strong> Supabase Realtime API, PostgreSQL, Netlify</p>
+        <p style="color: #ffffff;">Designed a self-expiring chat system using AI-assisted development and prompt engineering.</p>
+        <p style="color: #ffffff;"><strong>Tech Stack:</strong> Supabase Realtime API, PostgreSQL, Netlify</p>
     </div>
     <br>
     """, unsafe_allow_html=True)
@@ -140,8 +140,8 @@ with col1:
     st.markdown("""
     <div class="stCard">
         <h3>🧠 BrainScanNet: Brain Tumor Classification</h3>
-        <p>Brain tumor detection system using EfficientNetB2 and custom MRI preprocessing, achieving 99.84% accuracy.</p>
-        <p><strong>Tech Stack:</strong> Deep Learning, EfficientNetB2, Grad-CAM</p>
+        <p style="color: #ffffff;">Brain tumor detection system using EfficientNetB2 and custom MRI preprocessing, achieving 99.84% accuracy.</p>
+        <p style="color: #ffffff;"><strong>Tech Stack:</strong> Deep Learning, EfficientNetB2, Grad-CAM</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -149,8 +149,8 @@ with col2:
     st.markdown("""
     <div class="stCard">
         <h3>👤 FRAS: Identity Verification System</h3>
-        <p>Face recognition system that reduced manual attendance efforts by 80% with 95% accuracy.</p>
-        <p><strong>Tech Stack:</strong> Face Recognition, LBP, PCA, Excel Integration</p>
+        <p style="color: #ffffff;">Face recognition system that reduced manual attendance efforts by 80% with 95% accuracy.</p>
+        <p style="color: #ffffff;"><strong>Tech Stack:</strong> Face Recognition, LBP, PCA, Excel Integration</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -187,10 +187,10 @@ with col1:
     st.markdown("""
     <div class="stCard">
         <ul style="list-style-type: none; padding-left: 0;">
-            <li style="margin-bottom: 10px;">🏆 <strong>Oracle Cloud Infrastructure 2025 Certified Data Science Professional</strong> (Oct 2025)</li>
-            <li style="margin-bottom: 10px;">🏆 <strong>Oracle Cloud Infrastructure 2025 Certified Generative AI Professional</strong> (Aug 2025)</li>
-            <li style="margin-bottom: 10px;">🏆 <strong>Ubuntu Linux Professional Certificate</strong> by Canonical (March 2025)</li>
-            <li style="margin-bottom: 10px;">🏆 <strong>Google Data Analytics Professional Certificate</strong> (Feb 2025)</li>
+            <li style="margin-bottom: 10px;color:#ffffff;">🏆 <strong>Oracle Cloud Infrastructure 2025 Certified Data Science Professional</strong> (Oct 2025)</li>
+            <li style="margin-bottom: 10px;color:#ffffff;">🏆 <strong>Oracle Cloud Infrastructure 2025 Certified Generative AI Professional</strong> (Aug 2025)</li>
+            <li style="margin-bottom: 10px;color:#ffffff;">🏆 <strong>Ubuntu Linux Professional Certificate</strong> by Canonical (March 2025)</li>
+            <li style="margin-bottom: 10px;color:#ffffff;">🏆 <strong>Google Data Analytics Professional Certificate</strong> (Feb 2025)</li>
         </ul>
     </div>
     """, unsafe_allow_html=True)
@@ -201,9 +201,9 @@ with col2:
     st.markdown("""
     <div class="stCard">
         <ul style="list-style-type: none; padding-left: 0;">
-            <li style="margin-bottom: 10px;">📄 <strong>Deep Learning in Ophthalmology: A Novel Approach for Retinal Condition Prediction</strong> (2025)</li>
-            <li style="margin-bottom: 10px;">📄 <strong>A Predictive Analysis of Increasing IDSystem Accuracy Using ML Algorithms</strong> (2025)</li>
-            <li style="margin-bottom: 10px;">📄 <strong>Advancing IDS: A Comparative Analysis of Algorithms on the Kyoto 2015 Benchmark Dataset</strong> (2025)</li>
+            <li style="margin-bottom: 10px;color: #ffffff;">📄 <strong>Deep Learning in Ophthalmology: A Novel Approach for Retinal Condition Prediction</strong> (2025)</li>
+            <li style="margin-bottom: 10px;color: #ffffff;">📄 <strong>A Predictive Analysis of Increasing IDSystem Accuracy Using ML Algorithms</strong> (2025)</li>
+            <li style="margin-bottom: 10px;color: #ffffff;">📄 <strong>Advancing IDS: A Comparative Analysis of Algorithms on the Kyoto 2015 Benchmark Dataset</strong> (2025)</li>
         </ul>
     </div>
     """, unsafe_allow_html=True)
@@ -220,11 +220,11 @@ with col1:
     st.markdown("""
     <div style="background-color: #111; padding: 20px; border-radius: 10px; border: 1px solid #333;">
         <h3>Let's Connect!</h3>
-        <p>Interested in collaborating or have a project in mind? Feel free to reach out!</p>
+        <p style="color: #ffffff;">Interested in collaborating or have a project in mind? Feel free to reach out!</p>
         <br>
-        <p>📧 <strong>Email:</strong> <a href="mailto:jhotayash@zohomail.in" style="color: #FFD700;">jhotayash@zohomail.in</a></p>
-        <p>📱 <strong>Phone:</strong> +91 7339615381</p>
-        <p>📍 <strong>Location:</strong> Bangalore, Karnataka</p>
+        <p style="color: #ffffff;">📧 <strong>Email:</strong> <a href="mailto:jhotayash@zohomail.in" style="color: #FFD700;">jhotayash@zohomail.in</a></p>
+        <p style="color: #ffffff;">📱 <strong>Phone:</strong> +91 7339615381</p>
+        <p style="color: #ffffff;">📍 <strong>Location:</strong> Bangalore, Karnataka</p>
     </div>
     """, unsafe_allow_html=True)
 
