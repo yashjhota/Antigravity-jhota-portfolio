@@ -39,7 +39,7 @@ col1, col2 = st.columns([1.5, 1])
 
 with col1:
     st.title("Yash Jain")
-    st.markdown("### Computer Science Graduate & Software Developer")
+    st.markdown("### Computer Science Graduate & Data Enthusiast")
     
     st.markdown("""
     Dynamic and passionate Computer Science graduate with a strong foundation in **Software Development, Machine Learning, Deep Learning, GenAI, and Data Engineering**. 
