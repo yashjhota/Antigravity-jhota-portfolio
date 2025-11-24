@@ -75,7 +75,7 @@ with col2:
     # Display profile photo in a circular shape or styled frame
     col2_1, col2_2, col2_3 = st.columns([1, 2, 1])
     with col2_2:
-        st.image("profile_photo.png", width=300)
+        st.image("profile_photo.jpg", width=300)
 
 st.markdown("---")
 
