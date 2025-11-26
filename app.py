@@ -399,7 +399,7 @@ with col1:
     """, unsafe_allow_html=True)
 
     st.markdown('<a id="publications"></a>', unsafe_allow_html=True)
-    st.header("� Publications")
+    st.header("📃 Publications")
     st.markdown("""
     <div class="stCard">
         <ul style="list-style-type: none; padding-left: 0;">
